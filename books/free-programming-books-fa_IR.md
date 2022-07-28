@@ -6,6 +6,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [PHP](#php)
   * [Symfony](#symfony)
 * [Python](#python)
@@ -24,8 +25,13 @@
 
 ### مهندسی نرم‌افزار
 
+* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
-* [ترجمه آزاد کتاب کد تمیز](https://github.com/Noah1001000/clean-code-persian) - Robert C. Martin et al.### CSS
+* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin et al.
+
+
+### CSS
+
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
 
 
@@ -37,8 +43,9 @@
 
 ### JavaScript
 
-* مارین هاوربک - [جاوااسکریپت شیوا](http://eloquentjs.ir) (HTML)
-* [یادگیری اصولی جاواسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
+* [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی (HTML)
+* [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
+* [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
 
 ### LaTeX
@@ -46,11 +53,17 @@
 * [مقدمه ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
 
 
+### Linux
+
+* [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
+* [لینوکس و زندگی؛‌ درس هایی برای گیک های جوان](https://linuxbook.ir)
+
+
 ### PHP
 
 #### Symfony
 
-* [سیمفونی ۵: سریع‌ترین مسیر](https://symfony.com/doc/current/the-fast-track/fa/index.html)
+* [سیمفونی ۵: سریع‌ترین مسیر](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) *(:card_file_box: archived)*
 
 
 ### Python
